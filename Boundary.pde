@@ -1,9 +1,5 @@
-// The Nature of Code
-// <http://www.shiffman.net/teaching/nature>
-// Spring 2010
-// Box2DProcessing example
 
-// A fixed boundary class (now incorporates angle)
+
 
 class Boundary {
 
